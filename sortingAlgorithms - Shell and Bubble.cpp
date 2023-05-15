@@ -1,7 +1,6 @@
 //Computing Structures
 //Fall 2022
 //Project 6
-//Author: Aditya Narasimhan
 
 #include<iostream>
 #include<cstdlib> // used for random number generation
